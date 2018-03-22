@@ -1,5 +1,5 @@
 #### Sample code from previous project
-#### output models into Rshiny application
+ output models into Rshiny application  
 > Load previous data and models  
 > Select model from model list: Passenger Vehicle Fatality(1,2,3), Pedestrian, Motorcycle, Intersection  
 > Output sliders based on model selected  
