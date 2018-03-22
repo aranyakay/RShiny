@@ -1,1 +1,2 @@
-Folder for sample codes. All from previous programs
+Sample code from previous project
+output models into Rshiny application
